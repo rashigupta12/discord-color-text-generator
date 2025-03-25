@@ -1,8 +1,8 @@
 # Discord Color Text Generator
 Overview
 A web application that allows users to generate colorful, stylized text for Discord using ANSI color codes. This tool provides an intuitive interface for applying text styles, foreground colors, and background colors that can be easily copied and used in Discord messages.
-🌟 Features
 
+🌟 Features
 Bold and underline text styling
 8 foreground colors
 8 background colors
@@ -29,11 +29,11 @@ npm or yarn
 bashCopygit clone [https://github.com/rashigupta12/discord-color-text-generator.git](https://github.com/rashigupta12/discord-color-text-generator)
 cd discord-color-text-generator
 2. Install Dependencies
-bashCopynpm install
+bashCopy npm install
  or
 yarn install
 3. Run the Development Server
-bashCopynpm run dev
+bashCopy npm run dev
  or
 yarn dev
 Open http://localhost:3000 in your browser to see the application.
