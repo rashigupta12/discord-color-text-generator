@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Discord Color Text Generator
+Overview
+A web application that allows users to generate colorful, stylized text for Discord using ANSI color codes. This tool provides an intuitive interface for applying text styles, foreground colors, and background colors that can be easily copied and used in Discord messages.
+🌟 Features
 
-## Getting Started
+Bold and underline text styling
+8 foreground colors
+8 background colors
+Live preview of text styling
+One-click copy to clipboard with Discord-compatible ANSI formatting
+Responsive design using Mantine UI
 
-First, run the development server:
+🚀 Live Demo
+Check out the live application: Discord Color Text Generator
+📦 Technologies Used
 
-```bash
-npm run dev
+Next.js 14
+React
+Mantine UI
+Tailwind CSS (configured via Mantine)
+
+🛠️ Prerequisites
+
+Node.js (v18 or later)
+npm or yarn
+
+🏁 Getting Started
+1. Clone the Repository
+bashCopygit clone https://github.com/yourusername/discord-color-text-generator.git
+cd discord-color-text-generator
+2. Install Dependencies
+bashCopynpm install
+# or
+yarn install
+3. Run the Development Server
+bashCopynpm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open http://localhost:3000 in your browser to see the application.
+🔧 How to Use
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Select text in the editable area
+Click color or style buttons to apply formatting
+Click "Copy Discord Formatted Text" to copy ANSI-formatted text
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🎨 Color Palette
+Foreground Colors
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Dark Gray
+Red
+Yellowish Green
+Gold
+Light Blue
+Pink
+Teal
+White
 
-## Learn More
+Background Colors
 
-To learn more about Next.js, take a look at the following resources:
+Blueish Black
+Rust Brown
+Gray (40%)
+Gray (45%)
+Light Gray (55%)
+Blurple
+Light Gray (60%)
+Cream White
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+👤 Contact
+Your Name - Rashi gupta
+Project Link: [https://github.com/yourusername/discord-color-text-generator](https://github.com/rashigupta12/discord-color-text-generator)
