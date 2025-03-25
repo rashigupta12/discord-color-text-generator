@@ -26,7 +26,7 @@ npm or yarn
 
 🏁 Getting Started
 1. Clone the Repository
-bashCopygit clone https://github.com/yourusername/discord-color-text-generator.git
+bashCopygit clone [https://github.com/rashigupta12/discord-color-text-generator.git](https://github.com/rashigupta12/discord-color-text-generator)
 cd discord-color-text-generator
 2. Install Dependencies
 bashCopynpm install
